@@ -71,6 +71,4 @@ This project utilizes **CNN-based architectures** for classification:
 ## Author
 Abishekdakshna R
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
